@@ -2,3 +2,6 @@
 
 
 <img src=https://discord.c99.nl/widget/theme-4/1014523524305657907.png></img>
+
+## About Me
+I'm Hajagha. My expertise lies in Python and Javascript, and I've been running the game since 2019. My solutions are always ahead of the curve.
